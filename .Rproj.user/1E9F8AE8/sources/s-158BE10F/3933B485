@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589812133004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "862128205",
+    "id" : "3933B485",
+    "lastKnownWriteTime" : 1589830600,
+    "last_content_update" : 1589830600389,
+    "path" : "~/Documents/rstudio_projects/datacleaningw4/getandclean.R",
+    "project_path" : "getandclean.R",
+    "properties" : {
+        "cursorPosition" : "18,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
